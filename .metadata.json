@@ -1,0 +1,10 @@
+[
+  {
+    "package": "eatATA",
+    "oncran": true
+  },
+  {
+    "package": "eatGADS",
+    "oncran": true
+  }
+]
